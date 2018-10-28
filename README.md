@@ -37,5 +37,5 @@ Target Variables: 15-18. Run1, Run2, Run3, Run4: performance times in millisecon
 # [Contest Link](https://www.kaggle.com/c/logicalrhythm18-gpu/)
 
 # Result 
-Rank : 1
+Rank : 1<br>
 Score : 1.65440
